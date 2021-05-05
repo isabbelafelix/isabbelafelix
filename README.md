@@ -1,6 +1,13 @@
 # Hi, I'm Isabela Felix 👋
 
-Sou estudante de análise e desenvolvimento de sistemas, tenho 27 anos e moro em Recife-PE. Sou apaixonada por tecnologia e amante da arte 👩‍💻👩‍🎨
+Sou estudante de análise e desenvolvimento de sistemas, tenho 27 anos, sou apaixonada por tecnologia e amante da arte 👩‍💻👩‍🎨
+
+
+    - 📍 Moro em Recife-PE
+    - 📲 Estudando Desenvolvimento Mobile Android
+    - 📚Aprendendo e me aprofundando em Kotlin
+
+
 
 <!--
 **isabbelafelix/isabbelafelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
