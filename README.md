@@ -3,7 +3,7 @@
 Sou estudante de análise e desenvolvimento de sistemas, tenho 27 anos, sou apaixonada por tecnologia e amante da arte 👩‍💻👩‍🎨
 
 
-    - 📍 Moro em Recife-PE
+    - 📍 Moro em Fortaleza-CE
     - 📲 Estudando Desenvolvimento Mobile Android
     - 📚Aprendendo e me aprofundando em Kotlin
 
